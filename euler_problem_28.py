@@ -12,7 +12,7 @@
 # formed in the same way? 
 
 # Zauważmy, że dla takiej 1001x1001 spirali mamy tak naprawdę rdzeń "1" w środku, 
-# oraz 500 warstw z 4 liczbami (wierzchołkami warstwy).
+# oraz 500 warstw z 4 ineresującymi nas liczbami (wierzchołkami warstwy).
 # Zadanie sprowadza się do wyznaczenia algorytmu przechodzenia wartości x_k do x_k+1 
 # oraz dodawaniu ich do naszej sumy 
 
