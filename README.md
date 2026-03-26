@@ -1,4 +1,4 @@
-# EULER 
+# PROJ EULER 
 <img width="200" height="500" alt="obraz" src="https://github.com/user-attachments/assets/845c865d-3a88-4938-a882-7424ed087d5c" />
 
 Locked to private accordingly to challange's rules, and in order to not spoil the fun for others :)
