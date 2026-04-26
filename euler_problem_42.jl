@@ -1,3 +1,5 @@
+# Problem description: https://projecteuler.net/problem=42
+
 alphabet = Dict{Char,UInt16}()
 
 for (n, l) in enumerate(collect('a':'z'))
