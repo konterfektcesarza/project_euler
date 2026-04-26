@@ -1,5 +1,5 @@
 # PROJ EULER 
-<img width="200" height="500" alt="obraz" src="https://github.com/user-attachments/assets/845c865d-3a88-4938-a882-7424ed087d5c" />
+<img width="300" height="500" alt="obraz" src="https://github.com/user-attachments/assets/845c865d-3a88-4938-a882-7424ed087d5c" />
 
 Locked to private accordingly to site's rules, and in order to not spoil the fun for others :)
 Project euler is a site that offers a set of algorithmic challanges in form of mathematical problems for one to solve with a computer program. The problems start out easy and get progressively harder.
